@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://blocops.io" 
+	var url = "https://warbrokers.io" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
