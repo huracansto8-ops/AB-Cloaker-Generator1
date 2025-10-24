@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://servev.io" 
+	var url = "https://ethonion10.neocities.org" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
