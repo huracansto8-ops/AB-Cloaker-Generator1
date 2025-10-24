@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://lordz-io.com" 
+	var url = "https://servev.io" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
