@@ -1,6 +1,6 @@
 function opengame() {
 	var win = window.open()   
-	var url = "https://www.yp3d.com" 
+	var url = "https://ships3d.net" 
 	var iframe = win.document.createElement('iframe')
 	iframe.style.width = "100%";
 	iframe.style.height = "100%";
